@@ -10,7 +10,7 @@
             "email": "necrox87@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {
         "php": ">=5.3.0"
     },
