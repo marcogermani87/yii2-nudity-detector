@@ -1,0 +1,21 @@
+{
+    "name": "necrox87/yii2-nudity-detector",
+    "description": "This algorithm tries to detect nudity in the image based on the amount os skin colors in it. Based on work of FreebieStock (https://github.com/FreebieStock/php-nudity-detector)",
+    "type": "library",
+    "keywords": ["yii2","library"," nudity detector"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Germani",
+            "email": "necrox87@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "necrox87\\NudityDetector\\": ""
+        }
+    }
+}
