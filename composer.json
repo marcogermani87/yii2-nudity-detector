@@ -10,6 +10,7 @@
             "email": "necrox87@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "necrox87\\NudityDetector\\": ""
